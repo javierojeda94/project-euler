@@ -10,9 +10,9 @@ You can see the column `status`, which can take one of these values:
 
 | Problem | user | system | total | real | status
 |---|---|---|---|---|---|
-|  | 0.000000 | 0.000000 | 0.000000 | 0.000145 | OK
-|  | 2.810000 | 0.000000 | 2.810000 | 2.828140 | CI
-|  | 0.000000 | 0.000000 | 0.000000 | 0.000610 | OK
+| [Multiples of 3 and 5](https://projecteuler.net/problem=1) | 0.000000 | 0.000000 | 0.000000 | 0.000145 | OK
+| [Even Fibonacci numbers](https://projecteuler.net/problem=2) | 2.810000 | 0.000000 | 2.810000 | 2.828140 | CI
+| [Largest prime factor](https://projecteuler.net/problem=3) | 0.000000 | 0.000000 | 0.000000 | 0.000610 | OK
 
 ## Solutions format:
 
