@@ -1,4 +1,6 @@
 # https://projecteuler.net/problem=3
+require 'benchmark'
+
 class Problem3
   def solve(n = 600_851_475_143)
     biggest_factor = 2
@@ -15,4 +17,8 @@ class Problem3
 end
 
 problem = Problem3.new
-problem.solve
+
+Benchmark.bm do |x|
+  x.report { problem.solve }
+end
+

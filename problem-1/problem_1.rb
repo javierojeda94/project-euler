@@ -1,4 +1,6 @@
 # https://projecteuler.net/problem=1
+require 'benchmark'
+
 class Problem1
   def solve(num = 1000)
     sum = 0
@@ -11,4 +13,7 @@ class Problem1
 end
 
 problem = Problem1.new
-problem.solve
+
+Benchmark.bm do |x|
+  x.report { problem.solve }
+end

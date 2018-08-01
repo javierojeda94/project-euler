@@ -1,4 +1,6 @@
 # https://projecteuler.net/problem=2
+require 'benchmark'
+
 class Problem2
   def solve
     n = 1
@@ -20,4 +22,7 @@ class Problem2
 end
 
 problem = Problem2.new
-problem.solve
+
+Benchmark.bm do |x|
+  x.report { problem.solve }
+end
