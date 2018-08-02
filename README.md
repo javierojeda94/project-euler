@@ -17,6 +17,7 @@ You can see the column `status`, which can take one of these values:
 | [Smallest multiple](problem-5/problem_5.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000155 | OK
 | [Sum square difference](problem-6/problem_6.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000033 | OK
 | [10001st prime](problem-7/problem_7.rb) | 0.030000 | 0.010000 | 0.040000 | 0.032374 | OK 
+| [Largest product in a series](problem-8/problem_8.rb) | 1.000000 | 0.010000 | 1.010000 | 0.995988 | OK
 ## Solutions format:
 
 I'm using a simple format for the code. Each problem has it's own folder with a single `.rb` file containing the solution.
