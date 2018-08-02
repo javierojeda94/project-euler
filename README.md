@@ -15,7 +15,8 @@ You can see the column `status`, which can take one of these values:
 | [Largest prime factor](problem-3/problem_3.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000610 | OK
 | [Largest palindrome product](problem-4/problem_4.rb) | 0.060000 | 0.000000 | 0.060000 | 0.054729 | OK
 | [Smallest multiple](problem-5/problem_5.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000155 | OK
-| [Sum square difference](problem-6/problem_6.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000033 | OK 
+| [Sum square difference](problem-6/problem_6.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000033 | OK
+| [10001st prime](problem-7/problem_7.rb) | 0.030000 | 0.010000 | 0.040000 | 0.032374 | OK 
 ## Solutions format:
 
 I'm using a simple format for the code. Each problem has it's own folder with a single `.rb` file containing the solution.
