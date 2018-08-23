@@ -10,15 +10,15 @@ You can see the column `status`, which can take one of these values:
 
 | Problem | user | system | total | real | status
 |---|---|---|---|---|---|
-| [Multiples of 3 and 5](problem-1/problem_1.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000145 | OK
-| [Even Fibonacci numbers](problem-2/problem_2.rb) | 2.810000 | 0.000000 | 2.810000 | 2.828140 | CI
-| [Largest prime factor](problem-3/problem_3.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000610 | OK
-| [Largest palindrome product](problem-4/problem_4.rb) | 0.060000 | 0.000000 | 0.060000 | 0.054729 | OK
-| [Smallest multiple](problem-5/problem_5.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000155 | OK
-| [Sum square difference](problem-6/problem_6.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000033 | OK
-| [10001st prime](problem-7/problem_7.rb) | 0.030000 | 0.010000 | 0.040000 | 0.032374 | OK 
-| [Largest product in a series](problem-8/problem_8.rb) | 1.000000 | 0.010000 | 1.010000 | 0.995988 | OK
-| [Special Pythagorean triplet](problem-9/problem_9.rb) | 0.010000 | 0.000000 | 0.010000 | 0.008280 | OK
+| [Multiples of 3 and 5](problem-01/problem_1.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000145 | OK
+| [Even Fibonacci numbers](problem-02/problem_2.rb) | 2.810000 | 0.000000 | 2.810000 | 2.828140 | CI
+| [Largest prime factor](problem-03/problem_3.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000610 | OK
+| [Largest palindrome product](problem-04/problem_4.rb) | 0.060000 | 0.000000 | 0.060000 | 0.054729 | OK
+| [Smallest multiple](problem-05/problem_5.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000155 | OK
+| [Sum square difference](problem-06/problem_6.rb) | 0.000000 | 0.000000 | 0.000000 | 0.000033 | OK
+| [10001st prime](problem-07/problem_7.rb) | 0.030000 | 0.010000 | 0.040000 | 0.032374 | OK 
+| [Largest product in a series](problem-08/problem_8.rb) | 1.000000 | 0.010000 | 1.010000 | 0.995988 | OK
+| [Special Pythagorean triplet](problem-09/problem_9.rb) | 0.010000 | 0.000000 | 0.010000 | 0.008280 | OK
 | [Summation of primes](problem-10/problem_10.rb) | 2.260000 | 0.010000 | 2.270000 | 2.272021 | CI
 | [Largest product in a grid](problem-11/problem_11.rb) |  |  |  |  | UN
 ## Solutions format:
