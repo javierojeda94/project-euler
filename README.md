@@ -20,6 +20,7 @@ You can see the column `status`, which can take one of these values:
 | [Largest product in a series](problem-8/problem_8.rb) | 1.000000 | 0.010000 | 1.010000 | 0.995988 | OK
 | [Special Pythagorean triplet](problem-9/problem_9.rb) | 0.010000 | 0.000000 | 0.010000 | 0.008280 | OK
 | [Summation of primes](problem-10/problem_10.rb) | 2.260000 | 0.010000 | 2.270000 | 2.272021 | CI
+| [Largest product in a grid](problem-11/problem_11.rb) |  |  |  |  | UN
 ## Solutions format:
 
 I'm using a simple format for the code. Each problem has it's own folder with a single `.rb` file containing the solution.
